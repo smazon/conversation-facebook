@@ -1,5 +1,4 @@
 # conversation-facebook
-Como conectar o seu serviço de Watson Conversation ao Facebook
 
 Olá pessoal, Meu nome é Stéfany, sou Cloud Advocate da IBM e nesse tutorial vou explicar como conectar a API de Watson Conversation ao Facebook Messenger.
 
